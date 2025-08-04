@@ -1,0 +1,19 @@
+.color-box {
+  width: 500px;
+  height: 200px;
+  display: inline-block;
+  align-items: center;
+  background-color: rgb(120, 122, 122);
+}
+
+.color-box p {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  margin: 0;
+  padding-top: 35px;
+}
+
+body {
+  text-align: center;
+}

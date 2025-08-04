@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    background-color: #313132;
+}
+
+h2 {
+    color: white;
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+
+h1 {
+    color: white;
+    font-size: 4rem;
+    margin-top: 1rem;
+}
+
+
+.btn {
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container {
+    display: flex;
+    flex-direction: row;    /* to get things in a row */
+    flex-wrap: wrap;         /*to get things in a row*/
+    justify-content: center;
+    align-items: center;
+
+}
+
+.yellow {
+    background-color: #FACC15;
+}
+
+.red {
+    background-color: #EF4444;
+}
+
+.green {
+    background-color: #10B981;
+}
+
+.purple {
+    background-color: #8B5CF6;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: rgb(28, 90, 28);
+}
+
